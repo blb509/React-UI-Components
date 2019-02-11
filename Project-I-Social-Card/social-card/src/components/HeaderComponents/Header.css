@@ -1,1 +1,14 @@
 /* All styles for your header Components live here */
+.HeaderContainer {
+    width: 500px;
+    height: 100px;
+    display: flex;
+}
+
+.HeaderActual {
+    width: 450px;
+    height: 100px;
+    background: red;
+    display: flex;
+    flex-direction: column;
+}

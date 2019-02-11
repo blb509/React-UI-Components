@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import HeaderContainer from './components/HeaderComponents/HeaderContainer'
 
 // const App = () => {
 //   return (
@@ -24,9 +25,8 @@ import './App.css';
 const App = () => {
     return (
       <div className="App">
-      here
-      {/* <HeaderContainer />
-      <CardContainer/ > */}
+      <HeaderContainer />
+      {/* <CardContainer/ > */}
       </div>
     );
   };
