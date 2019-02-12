@@ -1,4 +1,53 @@
-.Buttons{
-    height: 600px;
-    width: 450px;
+ button {
+    text-decoration: none;
+    box-shadow: none;
+    border: 1px solid gray;
+    font-size: 40px;
 }
+
+.Buttons{
+    height: 500px;
+    width: 450px;
+    display: flex;
+}
+
+.white {
+    height: 500px;
+    width: 300px;
+}
+
+.red {
+    height: 500px;
+    width: 150px;
+}
+
+.num{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    color: black;
+}
+
+.act{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    color: black;
+}
+
+.sign{
+    width: 150px;
+    height: 100px;
+    background-color: maroon;
+    color: white;
+    display: flex;
+    padding: 0;
+    margin: 0 0 0 0; 
+    justify-content: center;
+    align-items: center;
+}
+
+.red p {
+    margin: 0;
+}
+

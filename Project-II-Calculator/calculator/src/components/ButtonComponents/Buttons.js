@@ -75,12 +75,12 @@ const subtract = {
 
 const add = {
     buttonStyle: "sign",
-    text       : <p>&plus;</p>
+    text       : <p>+</p>
 };
 
 const equals = {
     buttonStyle: "sign",
-    text       : <p>&equals;</p>
+    text       : <p>=</p>
 };
 
 
@@ -111,6 +111,5 @@ const Buttons = () => {
     );
   };
 
-  
   export default Buttons;
   
