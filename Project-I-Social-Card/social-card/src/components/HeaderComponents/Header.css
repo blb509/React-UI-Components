@@ -1,12 +1,12 @@
 /* All styles for your header Components live here */
 .HeaderContainer {
-    width: 500px;
+    width: 600px;
     height: 100px;
     display: flex;
 }
 
 .HeaderActual {
-    width: 445px;
+    width: 545px;
     margin-left: 5px;
     height: 100px;
     display: flex;
