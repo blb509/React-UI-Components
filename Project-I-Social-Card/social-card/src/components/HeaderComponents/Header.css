@@ -1,1 +1,39 @@
 /* All styles for your header Components live here */
+.HeaderContainer {
+    width: 600px;
+    height: 100px;
+    display: flex;
+}
+
+.HeaderActual {
+    width: 545px;
+    margin-left: 5px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    margin: 0;
+}
+
+.HeaderTitle{
+    display: flex;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.light{
+    font-size: 70%;
+    color: gray;
+    display: flex;
+    text-align: center;
+    margin-top: 1px;
+    margin-left: 5px;
+}
+
+.content{
+    margin-top: 10px;
+}
