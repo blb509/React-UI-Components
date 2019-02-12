@@ -1,0 +1,7 @@
+.App {
+    width: 450px;
+    height: 800px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
